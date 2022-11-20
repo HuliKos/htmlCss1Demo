@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+h1 {
+    margin:10px;
+    font-size: xx-large;
+    font-weight: 900;
+    text-align: center;
+    width:100%;
+}
